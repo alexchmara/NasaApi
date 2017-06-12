@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+.intro-site{
+  width: 100vw;
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container{
+  width: 1000px;
+  margin: 0 auto;
+  border: 1px solid red;
+  position: relative;
+}
+
+.hello{
+  color: white;
+  z-index: 1;
+  margin-top: 10px;
+  font-size: 30px;
+  font-family: "Arial", "times", sans-serif;
+  text-align: center;
+  margin-top: 200px;
+}
